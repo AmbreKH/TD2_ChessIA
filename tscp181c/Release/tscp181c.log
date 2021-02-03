@@ -1,0 +1,8 @@
+﻿  board.c
+D:\Users\Nico\Documents\ESIEE\E5\IA\tscp181c\tscp181c\board.c(221,15): warning C4101: 'localPiece': unreferenced local variable
+  Generating code
+  8 of 53 functions (15.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tscp181c.vcxproj -> D:\Users\Nico\Documents\ESIEE\E5\IA\tscp181c\tscp181c\Release\tscp181c.exe

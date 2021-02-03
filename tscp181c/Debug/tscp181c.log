@@ -1,0 +1,4 @@
+﻿  board.c
+D:\Users\Nico\Documents\ESIEE\E5\IA\tscp181c\tscp181c\board.c(43,8): warning C4013: 'memset' undefined; assuming extern returning int
+D:\Users\Nico\Documents\ESIEE\E5\IA\tscp181c\tscp181c\board.c(221,15): warning C4101: 'localPiece': unreferenced local variable
+  tscp181c.vcxproj -> D:\Users\Nico\Documents\ESIEE\E5\IA\tscp181c\tscp181c\Debug\tscp181c.exe
